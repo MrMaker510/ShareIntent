@@ -162,3 +162,5 @@ guilhermeborgesbastos@gmail.com
 
 ## Contact / Contato
 [![VIDEO](https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAgiAAAAJGMwMTQwNTMyLTU2N2EtNDM1NS1iZDMxLTI2ZjVhZDRlNjM2Mw.jpg)](https://www.facebook.com/AndroidNaPratica)
+
+##Not valid
